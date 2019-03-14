@@ -9,3 +9,4 @@ Getting started with RStudio and shinydashboard.
 ## Prequisites and Downloads
  * [Install R](https://www.r-project.org/)
  * [Install RStudio](https://www.rstudio.com/products/rstudio/download/)
+ * [Install Shiny Server](https://www.rstudio.com/products/shiny/shiny-server/) * *Optional* *
