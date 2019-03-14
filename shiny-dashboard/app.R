@@ -378,7 +378,7 @@ source('global.R', local = TRUE)
 #   )
 # }
 
-# STEP 8 - CSS Styling / Skins
+# STEP 7 - CSS Styling / Skins
 # ui <- dashboardPage(
 #   #skin = "green",
 #   dashboardHeader(title = "My Shiny Dashboard"),
