@@ -1,0 +1,77 @@
+/* logo */
+.skin-blue .main-header .logo {
+  background-color: #008571;
+  font-family: "ibm-plex-sans", "Helvetica Neue", Arial, sans-serif;
+  position: fixed;
+  overflow: visible;
+}
+                              
+/* logo when hovered */
+.skin-blue .main-header .logo:hover {
+  background-color: #008571;
+}
+                              
+/* navbar (rest of the header) */
+.skin-blue .main-header .navbar {
+  background-color: #ffffff;
+}        
+                              
+/* main sidebar */
+.skin-blue .main-sidebar {
+  background-color: #f7f7f7;
+  position: fixed;
+  overflow: visible;
+}
+
+.skin-blue .main-sidebar .sidebar {
+  color: #323232;
+  font-family: "ibm-plex-sans", "Helvetica Neue", Arial, sans-serif;
+}
+                              
+/* active selected tab in the sidebarmenu */
+.skin-blue .main-sidebar .sidebar .sidebar-menu .active a{
+  background-color: #f7f7f7;
+  color: #008571;
+  font-family: "ibm-plex-sans", "Helvetica Neue", Arial, sans-serif;
+  border-left-color: #008571;
+}
+                              
+/* other links in the sidebarmenu */
+.skin-blue .main-sidebar .sidebar .sidebar-menu a{
+  background-color: #f7f7f7;
+  color: #323232;
+  font-family: "ibm-plex-sans", "Helvetica Neue", Arial, sans-serif;
+}
+                              
+/* other links in the sidebarmenu when hovered */
+.skin-blue .main-sidebar .sidebar .sidebar-menu a:hover{
+  background-color: #f7f7f7;
+  color: #008571;
+  font-family: "ibm-plex-sans", "Helvetica Neue", Arial, sans-serif;
+  border-left-color: #008571;
+}
+
+/* toggle button when hovered  */                    
+.skin-blue .main-header .navbar .sidebar-toggle:hover{
+  background-color: #3b6caa;
+}
+
+.skin-blue .main-header .navbar .sidebar-toggle{
+  color: #3b6caa;
+}
+
+/* body */
+.content-wrapper, .right-side {
+  background-color: #ffffff;
+  color: #323232;
+  font-family: "ibm-plex-sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+h4 {
+  font-style: oblique;
+  color: #777;
+}
+
+label {
+  font-weight: 400;
+}
